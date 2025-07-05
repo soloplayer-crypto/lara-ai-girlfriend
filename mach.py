@@ -1,5 +1,5 @@
 import requests
-from Flask import Flask, request
+from flask import Flask, request
 import openai
 import os
 
