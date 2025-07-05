@@ -6,7 +6,7 @@ This is a Telegram bot using OpenAI (ChatGPT) + DeepAI image API to act like you
 
 1. Create a `.env` file with:
 ```
-TELEGRAM_TOKEN=8061851804:AAGra3RW2aI8GQ8fU42mqTTf6agoKoaiQ28
+TELEGRAM_TOKEN=AAGra3RW2aI8GQ8fU42mqTTf6agoKoaiQ28
 OPENAI_API_KEY=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
 DEEPAI_API_KEY=fd634cbb-a91e-438d-9294-0cf3288ec0cb
 ```
