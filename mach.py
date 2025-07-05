@@ -10,7 +10,7 @@ TELEGRAM_TOKEN =os.environ['AAGra3RW2aI8GQ8fU42mqTTf6agoKoaiQ28']
 OPENAI_API_KEY = os.environ['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']
 DEEPAI_API_KEY = os.environ['fd634cbb-a91e-438d-9294-0cf3288ec0cb']
 
-openai.api_key = OPENAI_API_KEY
+openai.api_key = ['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']
 
 NSFW_KEYWORDS = ['nude', 'sexy', 'hot', 'nsfw', 'porn', 'fuck', 'naked', 'xxx']
 SFW_PROMPT = "a cute anime girl smiling, soft lighting, high detail"
