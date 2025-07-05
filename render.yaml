@@ -5,7 +5,7 @@ services:
     buildCommand: ""
     startCommand: python mach.py
     envVars:
-      - key: 8061851804:AAGra3RW2aI8GQ8fU42mqTTf6agoKoaiQ28
+      - key: AAGra3RW2aI8GQ8fU42mqTTf6agoKoaiQ28
         sync: false
       - key: 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
         sync: false
