@@ -3,7 +3,7 @@ services:
     name: lara-ai-bot
     env: python
     buildCommand: ""
-    startCommand: python main.py
+    startCommand: python mach.py
     envVars:
       - key: 8061851804:AAGra3RW2aI8GQ8fU42mqTTf6agoKoaiQ28
         sync: false
