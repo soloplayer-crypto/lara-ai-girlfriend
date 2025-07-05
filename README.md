@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 3. Run the bot locally:
 ```
-python main.py
+python mach.py
 ```
 
 4. Deploy on [Render.com](https://render.com):
